@@ -1,27 +1,84 @@
-<p align="right"><sub>DESENVOLVIMENTO &nbsp; / &nbsp; AUTOMAÇÕES &nbsp; / &nbsp; PORTFÓLIO</sub></p>
+<p align="right"><sub><code>rafadorn.github.io / profile</code> · DIGITAL PORTFOLIO / 2026</sub></p>
 
-![Rafa — desenvolvimento e automação](assets/banner.svg)
+<p align="center">
+  <img src="assets/banner-editorial-v2.svg" width="100%" alt="Rafa — desenvolvimento e automações">
+</p>
+
+<p align="center">
+  <a href="#sobre-mim">Sobre mim</a> &nbsp;·&nbsp;
+  <a href="#tecnologias">Tecnologias</a> &nbsp;·&nbsp;
+  <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
+  <a href="#contato">Contato</a>
+</p>
 
 <br>
 
-## Olá, sou Rafa.
+<a id="sobre-mim"></a>
 
-Desenvolvo soluções que unem **programação, automação e experiências digitais**. Trabalho com suporte técnico, integrações e validações de processos, enquanto aprofundo meus estudos em **Análise e Desenvolvimento de Sistemas**.
+### 01 / OI, SOU O RAFA.
 
-```text
-rafa@dev:~$ cat agora.txt
-> desenvolvimento web · automações · interfaces · aprendizado contínuo
-```
+Gosto de resolver problemas com **código, automação e design**. Trabalho com suporte técnico e desenvolvimento de fluxos, criando validações, scripts e integrações que simplificam processos reais. Também desenvolvo experiências para a web — do front-end às ferramentas de publicação.
 
-<sub>STACK & FERRAMENTAS</sub>
+Estou cursando **Análise e Desenvolvimento de Sistemas**, aprofundando minhas habilidades em JavaScript, Node.js e engenharia de software.
 
-`JavaScript` &nbsp; `Node.js` &nbsp; `HTML / CSS` &nbsp; `PowerShell` &nbsp; `Git` &nbsp; `Supabase` &nbsp; `GitHub Actions`
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <sub>EM CONSTRUÇÃO</sub><br><br>
+      <strong>Interfaces, automações e software útil.</strong><br>
+      <sub>Do problema técnico à experiência que chega ao usuário.</sub>
+    </td>
+    <td width="45%" valign="top">
+      <sub>AGORA / FOCO ATUAL</sub><br><br>
+      <code>JavaScript &amp; Node.js</code><br>
+      <code>Desenvolvimento web</code><br>
+      <code>Automação de processos</code>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><strong>Um pouco mais sobre minha trajetória</strong></summary>
+<br>
+Minha atuação combina suporte técnico, análise de arquivos e automação de fluxos de produção. Nesse caminho, venho transformando tarefas repetitivas e verificações manuais em scripts e integrações. Em paralelo, construo produtos e sites com uma preocupação especial por clareza visual, manutenção e experiência de uso.
+</details>
+
+<br>
+
+<a id="tecnologias"></a>
+
+### 02 / TECNOLOGIAS & FERRAMENTAS
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="38" width="42">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="38" width="42">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="38" width="42">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="38" width="42">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="38" width="42">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="38" width="42">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" title="PowerShell" height="38" width="42">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" height="38" width="42">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" height="38" width="42">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" height="38" width="42">
+</p>
+
+<sub>LINGUAGENS / FRONT-END / BACK-END / AUTOMAÇÃO / INFRAESTRUTURA</sub>
+
+`JavaScript` · `TypeScript` · `Node.js` · `HTML` · `CSS` · `PowerShell` · `Git` · `Supabase` · `GitHub Actions` · `Cloudflare`
 
 <br>
 
 ---
 
-### 01 / PROJETO SELECIONADO
+<a id="projetos"></a>
+
+### 03 / SELECTED WORK
+
+Projetos em que participei do **desenvolvimento e das integrações técnicas**, preservando a identidade visual e os créditos de quem criou cada trabalho.
+
+<br>
+
+### CASE 01 / IDENTIDADE & PORTFÓLIO DIGITAL
 
 # Camylle Teske — portfólio digital
 
@@ -65,7 +122,7 @@ Um portfólio com linguagem **editorial e visual**, desenvolvido para valorizar 
 
 ---
 
-### 02 / PROJETO SELECIONADO
+### CASE 02 / E-COMMERCE & EXPERIÊNCIA DIGITAL
 
 # Create of Art — marca, site & experiência digital
 
@@ -100,16 +157,18 @@ Uma experiência web para a **Create of Art**, com estética de campanha, navega
 
 ---
 
-### 03 / SOBRE O QUE ESTOU CONSTRUINDO
-
-**Automação de processos** — scripts, verificações e integração de sistemas para reduzir tarefas repetitivas e melhorar a confiabilidade dos fluxos.
-
-**Desenvolvimento web** — interfaces e aplicações, com foco em arquitetura prática, manutenção e experiência de uso.
-
-**Aprendizado contínuo** — aprofundamento em JavaScript, Node.js, testes e boas práticas de engenharia de software.
-
 <br>
 
 ---
 
-<sub><code>status: construindo, estudando e evoluindo.</code> &nbsp; · &nbsp; [github.com/rafadorn](https://github.com/rafadorn)</sub>
+<a id="contato"></a>
+
+### 04 / ONDE ME ENCONTRAR
+
+<p>
+  <a href="https://github.com/rafadorn"><img src="https://img.shields.io/badge/GitHub-rafadorn-111b1b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub rafadorn"></a>
+  <a href="https://camylle-teske.com.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Camylle_Teske-335c50?style=for-the-badge&logo=webflow&logoColor=white" alt="Site da Camylle Teske"></a>
+  <a href="https://createofart.com.br/"><img src="https://img.shields.io/badge/Projeto-Create_of_Art-335c50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Create of Art"></a>
+</p>
+
+<p align="right"><sub><code>$ keep building_</code> · feito com atenção aos detalhes</sub></p>
