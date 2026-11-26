@@ -65,7 +65,42 @@ Um portfólio com linguagem **editorial e visual**, desenvolvido para valorizar 
 
 ---
 
-### 02 / SOBRE O QUE ESTOU CONSTRUINDO
+### 02 / PROJETO SELECIONADO
+
+# Create of Art — marca, site & experiência digital
+
+Uma experiência web para a **Create of Art**, com estética de campanha, navegação editorial e interface de pré-venda. O site apresenta a coleção **Verão 27**, permite explorar peças e organiza o fluxo de interesse e reserva, **sem pagamento nesta etapa**.
+
+**Meu trabalho:** desenvolvimento da experiência web, interações visuais, estrutura do catálogo, painel administrativo e integrações técnicas.  
+**Tecnologias do projeto:** JavaScript / TypeScript, Node.js, Cloudflare Workers, D1 e integração de e-mails com Resend.  
+**Repositório:** mantido na conta [CreateOFart](https://github.com/CreateOFart), com código privado.
+
+[**Explorar o site ↗**](https://createofart.com.br/)
+
+<br>
+
+<a href="https://createofart.com.br/">
+  <img src="https://createofart.com.br/assets/capa-panorama.938aac13cd5f.png" width="100%" alt="Imagem panorâmica original da campanha Create of Art">
+</a>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://createofart.com.br/"><img src="https://createofart.com.br/assets/capa-homem.c8496a4df930.jpg" width="100%" alt="Imagem original de campanha da Create of Art"></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://createofart.com.br/"><img src="https://createofart.com.br/assets/looks-poster.c8496a4df930.jpg" width="100%" alt="Editorial de looks original da Create of Art"></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Visuais originais do site Create of Art · Projeto publicado em outra conta do GitHub.</sub></p>
+
+<br>
+
+---
+
+### 03 / SOBRE O QUE ESTOU CONSTRUINDO
 
 **Automação de processos** — scripts, verificações e integração de sistemas para reduzir tarefas repetitivas e melhorar a confiabilidade dos fluxos.
 
