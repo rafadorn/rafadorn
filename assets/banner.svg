@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Rafa — Desenvolvimento e automação</title>
+<desc id="desc">Capa editorial escura com tipografia refinada e pequeno terminal de programação.</desc>
+<defs>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" fill="none" stroke="#9db4a8" stroke-width=".5" opacity=".14" />
+  </pattern>
+  <linearGradient id="back" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#101a1c"/>
+    <stop offset="1" stop-color="#0a1014"/>
+  </linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#101a1c" stop-opacity="1"/><stop offset="1" stop-color="#101a1c" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="380" fill="url(#back)"/>
+<rect x="645" y="0" width="555" height="380" fill="url(#grid)" opacity=".45"/>
+<rect x="0" y="0" width="720" height="380" fill="url(#fade)"/>
+<path d="M50 61H1150" stroke="#536560" stroke-width="1" opacity=".58"/>
+<path d="M50 327H1150" stroke="#536560" stroke-width="1" opacity=".58"/>
+<rect x="50" y="35" width="9" height="9" fill="#8fe0bd"/>
+<text x="72" y="45" fill="#b3c0bb" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3.2">PORTFÓLIO / GITHUB</text>
+<text x="1148" y="45" text-anchor="end" fill="#708981" font-family="monospace" font-size="15">rafadorn  /  2026</text>
+<text x="53" y="208" fill="#f3f0e9" font-family="Georgia,'Times New Roman',serif" font-size="123" font-weight="bold" letter-spacing="-6">Rafa.</text>
+<text x="56" y="257" fill="#cdd9d4" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="400">Desenvolvimento &amp; automação</text>
+<text x="56" y="299" fill="#7e9b91" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2.1">SUPORTE TÉCNICO  /  JAVASCRIPT  /  SISTEMAS</text>
+<rect x="700" y="111" width="443" height="186" rx="13" fill="#0d1517" stroke="#49635a" stroke-width="1.4"/>
+<rect x="701" y="112" width="441" height="33" rx="12" fill="#1e2b2a"/>
+<path d="M701 133V145H1142V133" fill="#1e2b2a"/>
+<circle cx="725" cy="129" r="5" fill="#c67b74"/><circle cx="742" cy="129" r="5" fill="#c6ae72"/><circle cx="759" cy="129" r="5" fill="#7bad92"/>
+<text x="922" y="134" text-anchor="middle" fill="#8ca29b" font-family="monospace" font-size="13">rafa@github:~</text>
+<text x="724" y="183" fill="#86dfb8" font-family="monospace" font-size="19">$ whoami</text>
+<text x="724" y="216" fill="#e1e8e1" font-family="monospace" font-size="18">developer in progress</text>
+<text x="724" y="253" fill="#93ada3" font-family="monospace" font-size="17">&gt; building useful things<tspan fill="#86dfb8">_</tspan></text>
+</svg>
