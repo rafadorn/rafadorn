@@ -166,9 +166,9 @@ Uma experiência web para a **Create of Art**, com estética de campanha, navega
 ### 04 / ONDE ME ENCONTRAR
 
 <p>
-  <a href="https://github.com/rafadorn"><img src="https://img.shields.io/badge/GitHub-rafadorn-111b1b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub rafadorn"></a>
-  <a href="https://camylle-teske.com.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Camylle_Teske-335c50?style=for-the-badge&logo=webflow&logoColor=white" alt="Site da Camylle Teske"></a>
-  <a href="https://createofart.com.br/"><img src="https://img.shields.io/badge/Projeto-Create_of_Art-335c50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Create of Art"></a>
+  <a href="https://github.com/rafadorn"><img src="https://img.shields.io/badge/GitHub-rafadorn-21172b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub rafadorn"></a>
+  <a href="https://camylle-teske.com.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Camylle_Teske-8b3abd?style=for-the-badge&logo=webflow&logoColor=white" alt="Site da Camylle Teske"></a>
+  <a href="https://createofart.com.br/"><img src="https://img.shields.io/badge/Projeto-Create_of_Art-8b3abd?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Create of Art"></a>
 </p>
 
 <p align="right"><sub><code>$ keep building_</code> · feito com atenção aos detalhes</sub></p>
